@@ -1,0 +1,90 @@
+body{
+    background-color: aqua;
+}
+
+#hero_section{
+height: 48vh;
+/* border: 1px solid black;*/
+display: flex;
+/*background-color: red;*/
+}
+
+.sec1{
+    /*border: 1px dotted black;*/
+    width: 50%;
+    height: 100%;
+}
+
+#fname{
+    font-size: 420%;
+    }
+
+#name{
+text-align: center;
+}
+
+#photo{
+    width: 75%;
+    height: 95%;
+    border-radius: 5%;
+}
+
+#about{
+    text-align:center ;
+    background-color: rgb(255, 255, 255);
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+#me{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#skills{
+margin-top: 4%;
+margin-left: 45%;
+margin-bottom: 4%;
+}
+
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 4%;
+    border-radius: 3% 3%;
+}    
+
+
+.sp{
+    margin-left: 10%;
+}
+#first_row{
+    display: flex;
+}
+
+#second_row{
+    display: flex;
+}
+#third_row{
+    display: flex;
+}
+
+
+.projo{
+    background-color: rgb(255, 255, 255);
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+
+#sample_projects{
+text-align: center;
+}
+.sp{
+    margin-bottom: 2%;
+}
+
+#projects{
+text-align: center;
+}
